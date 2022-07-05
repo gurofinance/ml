@@ -24,3 +24,4 @@ jupyter notebook
 
 ![tree](https://user-images.githubusercontent.com/93898378/177272649-452f4c70-3f6a-4625-ab2d-85ac1a9217b0.png)
 
+![image](https://user-images.githubusercontent.com/93898378/177274357-faf9c7bc-dd8a-4a99-bf13-08a332d6c52e.png)
