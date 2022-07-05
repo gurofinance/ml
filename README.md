@@ -22,4 +22,5 @@ jupyter notebook
 
 [Boosting.ipynb](https://github.com/gurofinance/ml/blob/main/Boosting.ipynb) : 앙상블 기법중에 boosting 관련 예제
 
-![tree image](./tree.png)
+![tree](https://user-images.githubusercontent.com/93898378/177272649-452f4c70-3f6a-4625-ab2d-85ac1a9217b0.png)
+
