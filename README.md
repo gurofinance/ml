@@ -21,3 +21,5 @@ jupyter notebook
 [DecisionTree.ipynb](https://github.com/gurofinance/ml/blob/main/DecisionTree.ipynb) :  의사결정나무 예제
 
 [Boosting.ipynb](https://github.com/gurofinance/ml/blob/main/Boosting.ipynb) : 앙상블 기법중에 boosting 관련 예제
+
+![tree image](C:\apps\ml\tree.png)
